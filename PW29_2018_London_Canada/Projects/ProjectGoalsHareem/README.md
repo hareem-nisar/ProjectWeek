@@ -4,9 +4,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- Investigator 1 (Affiliation)
-- Investigator 2 (Affiliation)
-- Investigator 3 (Affiliation)
+- Hareem Nisar
 
 # Project Description
 
@@ -19,9 +17,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Approach and Plan
 
-1. Describe planned approach to reach objectives.
-1. ...
-1. ...
+1. Attend the sessions.
+2. Try making a module for data acquisition through TEE 
+1. Implement my Jupyter notebook code directly into Slicer
 
 ## Progress and Next Steps
 
