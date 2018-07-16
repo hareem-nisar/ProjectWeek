@@ -12,13 +12,13 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Objective
 
-1. Objective A. Understand how to include jupyter notebook and pyhton libraries in 3D Slicer.
-1. Objective B. Making custom Slicer apps, gui, etc.
+Objective A. Understand how to include jupyter notebook and pyhton libraries in 3D Slicer.
+Objective B. Making custom Slicer apps, gui, etc.
 
 ## Approach and Plan
 
 1. Attend the sessions.
-2. Try making a module for data acquisition through TEE 
+1. Try making a module for data acquisition through TEE 
 1. Implement my Jupyter notebook code directly into Slicer
 
 ## Progress and Next Steps
